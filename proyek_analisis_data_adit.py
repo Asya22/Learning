@@ -19,8 +19,6 @@ Original file is located at
 ## Import Semua Packages/Library yang Digunakan
 """
 
-!pip install streamlit
-!pip install pyngrok
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
